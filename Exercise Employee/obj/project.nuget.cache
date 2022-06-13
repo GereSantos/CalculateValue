@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBW+EyWXt90T0+eObLwKpQnj3wHxpvT6Hqgurhr//KtUzM20PYCX36vLBfHjh8zX4JBdBtCjVJOoqlgdGx2HBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geremias.bezerra\\source\\repos\\Exercise Employee\\Exercise Employee\\Exercise Employee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geremias.bezerra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

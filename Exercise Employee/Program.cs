@@ -7,6 +7,8 @@ namespace Exercise_Employee
     {
         static void Main(string[] args)
         {
+            //Programa que lê código de peça, quantidade de peça adquirida e o valor da mesma, fazendo com que assim multiplique o 
+            //número de peças pelo valor unitário de cada peça
             int Cdp, np, Cdp2, np2;
             double total, vlup1, vlup2;
 
